@@ -14,7 +14,6 @@
                     <div>
                     <h6 class="fas fa-tools"><a href="facebook.com.br/HomeShop"> Ferramentas</a><h6>
                     <h6 class="fas fa-bolt"><a href="facebook.com.br/HomeShop"> Eletronicos</a><h6>
-                    <h6 class="	fas fa-sim-card"><a href="facebook.com.br/HomeShop"> Celulares</a><h6>
                     <h6 class="fas fa-bed"><a href="facebook.com.br/HomeShop">Cama,Mesa e Banho</a><h6>
                     </div>
                 </div>

@@ -38,15 +38,17 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-light" style="background-color: #ffffff;">
   <div class="container-fluid">
-    <div class="navbar-header">
+  <div class="navbar-header">
+    
+   
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">TecInfo</a>
+      <img src="img/homeShopLogo.png" width="40%" height="40%">
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -57,8 +59,8 @@
 	<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Categoria <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="produtocat.php">Ferramentas</a></li>
-          <li><a href="produtocat2.php">Novidades</a></li>
-          <li><a href="produtocat3.php">Embarcados</a></li>
+          <li><a href="produtocat2.php">Eletronicos</a></li>
+          <li><a href="produtocat3.php">Cama, Mesa e Banho</a></li>
         </ul>
       </li>
 	  	<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Cadastros <span class="caret"></span></a>
