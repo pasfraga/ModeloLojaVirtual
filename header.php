@@ -37,8 +37,9 @@
   </style>
 </head>
 <body>
-
-<nav class="navbar navbar-light" style="background-color: #ffffff;">
+<div class="container-fluid">
+  <img src="img/homeShopLogo.png" width="40%" height="40%">
+<nav class="navbar-inverse">
   <div class="container-fluid">
   <div class="navbar-header">
     
@@ -48,7 +49,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <img src="img/homeShopLogo.png" width="40%" height="40%">
+      
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
